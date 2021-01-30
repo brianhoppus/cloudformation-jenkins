@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "JenkinsProject"
+    },
+    {
+        "ParameterKey": "WebAppLaunchConfigDiskSize",
+        "ParameterValue": "10"
+    },
+    {
+        "ParameterKey": "WebAppGroupMinSize",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "WebAppGroupMaxSize",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "WebAppLaunchConfigInstanceType",
+        "ParameterValue": "t2.small"
+    }
+]
